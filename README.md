@@ -22,4 +22,4 @@
 
 ***Token Transfer:*** https://explorer.goerli.linea.build/tx/0x6bde5f5dd4a0f74f3ec17438343c021cc8dc6632c307ce6ecd9a9971b941c305
 
-***Eth Tansfer*** https://explorer.goerli.linea.build/tx/0xa0ab95616fd11c502edf50b9df5cf3f909c22db773dffec1d2aa55c758cfc35d
+***Eth Transfer:*** https://explorer.goerli.linea.build/tx/0xa0ab95616fd11c502edf50b9df5cf3f909c22db773dffec1d2aa55c758cfc35d
