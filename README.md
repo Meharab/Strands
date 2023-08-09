@@ -8,7 +8,7 @@
 
 ***Transaction:*** https://explorer.goerli.linea.build/tx/0x82cb5975a328692431f6cc5f90c6bb72390afcfd97762ada5e7153948c7cb219
 
-***Details:*** https://explorer.goerli.linea.build/address/0x95E37c97A0ba851530357F41a53f5EA274605793
+***Verification:*** https://explorer.goerli.linea.build/address/0x95E37c97A0ba851530357F41a53f5EA274605793/contracts#address-tabs
 
 ### Transfer Contract
 
@@ -16,7 +16,7 @@
 
 ***Transaction:*** https://explorer.goerli.linea.build/tx/0xddfe95f317ec3a05757379df57c32d888b0405fbc9661f85bb8355c462d8081c
 
-***Details:*** https://explorer.goerli.linea.build/address/0x0D51a51aBCaC863A9369d135765a27f2e8725BBd
+***Verification:*** https://explorer.goerli.linea.build/address/0x0D51a51aBCaC863A9369d135765a27f2e8725BBd/contracts#address-tabs
 
 ## Transaction
 
