@@ -2,7 +2,7 @@
 
 ## Deployment
 
-### Token Cotract
+### Token Contract
 
 *0x95E37c97A0ba851530357F41a53f5EA274605793* 
 
@@ -10,7 +10,7 @@
 
 ***Details:*** https://explorer.goerli.linea.build/address/0x95E37c97A0ba851530357F41a53f5EA274605793
 
-### Transfer Cotract
+### Transfer Contract
 
 *0x0D51a51aBCaC863A9369d135765a27f2e8725BBd* 
 
