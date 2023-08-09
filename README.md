@@ -4,7 +4,7 @@
 
 ### Token Contract
 
-*0x95E37c97A0ba851530357F41a53f5EA274605793* 
+*[0x95E37c97A0ba851530357F41a53f5EA274605793](https://goerli.lineascan.build/address/0x95E37c97A0ba851530357F41a53f5EA274605793#code)* 
 
 ***Transaction:*** https://explorer.goerli.linea.build/tx/0x82cb5975a328692431f6cc5f90c6bb72390afcfd97762ada5e7153948c7cb219
 
@@ -12,7 +12,7 @@
 
 ### Transfer Contract
 
-*0x0D51a51aBCaC863A9369d135765a27f2e8725BBd* 
+*[0x0D51a51aBCaC863A9369d135765a27f2e8725BBd](https://goerli.lineascan.build/address/0x0d51a51abcac863a9369d135765a27f2e8725bbd#code)* 
 
 ***Transaction:*** https://explorer.goerli.linea.build/tx/0xddfe95f317ec3a05757379df57c32d888b0405fbc9661f85bb8355c462d8081c
 
