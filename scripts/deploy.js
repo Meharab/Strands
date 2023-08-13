@@ -1,5 +1,4 @@
-// import { ethers } from "hardhat";
-require("@nomicfoundation/hardhat-ethers");
+import { ethers } from "hardhat";
 
 const AMOUNT = 10;
 const ADDRESS = "0x3483Be5373B040892952cF92c5889C1B2eB0e509";
